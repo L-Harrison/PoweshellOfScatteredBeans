@@ -151,3 +151,11 @@ type|	cat|	Get-Content	|gc、cat、type
 ### 2. [哈希表](Hashtable.md)
 
 ### 3. [PSCustomObject](PSCustomObject%20.md)
+
+### 4. [String](String.md)
+
+### 5. [运算符、if/else](https://learn.microsoft.com/zh-cn/powershell/scripting/learn/deep-dives/everything-about-if?view=powershell-7.2) 
+
+### 6. [异常](https://learn.microsoft.com/zh-cn/powershell/scripting/learn/deep-dives/everything-about-exceptions?view=powershell-7.2)
+
+### 7. [ShouldProcess](https://learn.microsoft.com/zh-cn/powershell/scripting/learn/deep-dives/everything-about-shouldprocess?view=powershell-7.2)
